@@ -23,3 +23,7 @@ make
 ## Distribution note
 
 If you ship this binary inside a macOS application, it must be code signed and notarized as part of your app distribution.
+
+## Credits
+
+If I remember correctly, the source is based on this thread: https://superuser.com/questions/285103/is-it-possible-to-control-the-caps-lock-led-on-os-x
