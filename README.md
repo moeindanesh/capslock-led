@@ -24,9 +24,18 @@ make
 
 If you ship this binary inside a macOS application, it must be code signed and notarized as part of your app distribution.
 
+## Used in Noor
+
+This utility is used as part of the Noor application (see `https://noor.to`).
+
 ## License
 
 MIT. See `LICENSE`.
+
+## Authors
+
+- Moein Danesh (@moeindanesh)
+- Mohammad Rajabi (@morajabi)
 
 ## Credits
 
